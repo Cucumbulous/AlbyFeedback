@@ -1,6 +1,6 @@
 # Alby Feedback #
 
-Public feedback for the Alby Discord Bot
+User feedback for the Alby Discord Bot
 
 ## How to use this repository ##
 
